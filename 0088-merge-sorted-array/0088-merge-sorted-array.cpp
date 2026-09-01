@@ -1,3 +1,6 @@
+/*********************************** first Approach cpp solution hai ***********************/
+/* T.C = O(n+m) + O(n+m)
+    S.C = O(n+m) */
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
