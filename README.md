@@ -10,10 +10,12 @@ My solutions for LeetCode Top Interview 150
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/coderkundan-123/LeetCode-150/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/coderkundan-123/LeetCode-150/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/coderkundan-123/LeetCode-150/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/coderkundan-123/LeetCode-150/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
