@@ -7,6 +7,7 @@ My solutions for LeetCode Top Interview 150
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/coderkundan-123/LeetCode-150/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/coderkundan-123/LeetCode-150/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
@@ -15,6 +16,7 @@ My solutions for LeetCode Top Interview 150
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/coderkundan-123/LeetCode-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/coderkundan-123/LeetCode-150/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/coderkundan-123/LeetCode-150/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/coderkundan-123/LeetCode-150/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/coderkundan-123/LeetCode-150/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
@@ -23,6 +25,7 @@ My solutions for LeetCode Top Interview 150
 | [0027-remove-element](https://github.com/coderkundan-123/LeetCode-150/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/coderkundan-123/LeetCode-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/coderkundan-123/LeetCode-150/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/coderkundan-123/LeetCode-150/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
