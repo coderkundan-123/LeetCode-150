@@ -15,6 +15,7 @@ My solutions for LeetCode Top Interview 150
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/coderkundan-123/LeetCode-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/coderkundan-123/LeetCode-150/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/coderkundan-123/LeetCode-150/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/coderkundan-123/LeetCode-150/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,10 +28,12 @@ My solutions for LeetCode Top Interview 150
 | ------- |
 | [0088-merge-sorted-array](https://github.com/coderkundan-123/LeetCode-150/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/coderkundan-123/LeetCode-150/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/coderkundan-123/LeetCode-150/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/coderkundan-123/LeetCode-150/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/coderkundan-123/LeetCode-150/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,8 +42,10 @@ My solutions for LeetCode Top Interview 150
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/coderkundan-123/LeetCode-150/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/coderkundan-123/LeetCode-150/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/coderkundan-123/LeetCode-150/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/coderkundan-123/LeetCode-150/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
