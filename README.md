@@ -21,6 +21,7 @@ My solutions for LeetCode Top Interview 150
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/coderkundan-123/LeetCode-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/coderkundan-123/LeetCode-150/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/coderkundan-123/LeetCode-150/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/coderkundan-123/LeetCode-150/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/coderkundan-123/LeetCode-150/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/coderkundan-123/LeetCode-150/tree/master/0274-h-index) |
 ## Two Pointers
@@ -74,4 +75,20 @@ My solutions for LeetCode Top Interview 150
 |  |
 | ------- |
 | [0274-h-index](https://github.com/coderkundan-123/LeetCode-150/tree/master/0274-h-index) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/coderkundan-123/LeetCode-150/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/coderkundan-123/LeetCode-150/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/coderkundan-123/LeetCode-150/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/coderkundan-123/LeetCode-150/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
